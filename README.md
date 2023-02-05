@@ -1,14 +1,26 @@
-<h2 align="left">Hi 👋, I'm Muhammad Amman</h2>
-<!-- <h3 align="center">Crafting Innovative Web Solutions with a Focus on User Experience</h3>
+
+<h2 align="center">Hi 👋, I'm Muhammad Amman</h2>
+<h3 align="center">Crafting Innovative Web Solutions with a Focus on User Experience</h3>
+
+ <img align="right" alt="GIF" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" data-canonical-src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" style="
+ width:380px;
+ margin-top: 20px;
+ ">
+<!--  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ammansoomro&label=Profile%20views&color=0e75b6&style=flat" alt="ammansoomro" /> </p>
  -->
+<p align="left"> <a href="https://www.linkedin.com/in/ammansoomro/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="AmmanSoomro" /></a> <a href="https://dribbble.com/ammansoomro" target="blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="AmmanSoomro" /></a> <a href="https://twitter.com/OtakuBakito" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="AmmanSoomro" /></a> </p>
 
-- 🏫 I'm currently studying Bachelor in Science in Software Engineering (BSSE) at FAST NUCES Karachi
+- 🏫 I'm currently studying BSSE at FAST NUCES Karachi
 
-- 🖥️ I'm an Currently working on my Final Year Project, **Fast-Central-Hub**.
+- 🖥️ I'm an Currently working on **Fast-Central-Hub (FYP)**.
 
-- 👨‍💻 Link to my Portfolio: [https://amman-portfolio.netlify.app/](https://amman-portfolio.netlify.app/)
+- 👨‍💻 Link to my Portfolio: [Here](https://amman-portfolio.netlify.app/)
 
-<h2 align="left">Connect with me:</h2>
+- 📫 How to reach me: [amman.soomro.as@gmail.com](amman.soomro.as@gmail.com)
+
+
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ammansoomro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ammansoomro" height="30" width="40" /></a>
 <a href="https://fb.com/amman.soomro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amman.soomro" height="30" width="40" /></a>
