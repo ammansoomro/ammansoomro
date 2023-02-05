@@ -11,11 +11,11 @@ I am able to effectively break down complex problems into manageable solutions, 
 
 My methodical, accurate, and adaptable nature allows me to effectively navigate change and seamlessly adjust to new processes within a professional environment.
 
-# Some of My Favorites Tools, Services and Languages
+# Some of My Favorites Tools, and Languages
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,c,cs,cpp,css,discord,eclipse,firebase,git,github,html,idea,java,js,jquery,linux,materialui,mongodb,mysql,netlify,nodejs,php,postman,powershell,py,react,redux,regex,sass,visualstudio,vscode)](https://github.com/ammansoomro)
+[![My Skills](https://skillicons.dev/icons?i=react,bootstrap,c,cs,cpp,css,discord,eclipse,firebase,git,github,html,idea,java,js,jquery,linux,materialui,mongodb,mysql,nodejs,php,postman,powershell,py,redux,regex,sass,visualstudio,vscode)](https://github.com/ammansoomro)
 
-# Specs
+# My Specs
 
 ```yaml
 apiVersion: v22
