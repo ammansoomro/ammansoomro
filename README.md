@@ -11,9 +11,9 @@ I am able to effectively break down complex problems into manageable solutions, 
 
 My methodical, accurate, and adaptable nature allows me to effectively navigate change and seamlessly adjust to new processes within a professional environment.
 
-# Some of My Favorites Tools and Services
+# Some of My Favorites Tools, Services and Languages
 
-[![My Skills](https://skillicons.dev/icons?i=linux,raspberrypi,md,bash,powershell,ansible,py,go,nodejs,aws,azure,gcp,netlify,docker,kubernetes,openshift,openstack,dynamodb,mongodb,redis,postgres,mysql,github,gitlab,grafana,prometheus,jenkins,maven,nginx,prisma,figma,html,css,wordpress,gatsby,ps,pr,ae,unity,unreal,androidstudio,vim,neovim,atom,vscode)](https://github.com/heyValdemar)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,c,cs,cpp,css,discord,eclipse,firebase,git,github,html,idea,java,js,jquery,linux,materialui,mongodb,mysql,netlify,nodejs,php,postman,powershell,py,react,redux,regex,sass,visualstudio,vscode)](https://github.com/ammansoomro)
 
 # Specs
 
@@ -66,3 +66,20 @@ spec:
 </a>
 </p>
 
+# My GitHub Stats
+
+### GitHub Streak
+<div align="center">
+
+[![gitHub streak](https://github-readme-streak-stats.herokuapp.com?user=ammansoomro&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700&stroke=9046FF&ring=9046FF&fire=9046FF&currStreakNum=9046FF&sideNums=9046FF&currStreakLabel=9046FF&sideLabels=9046FF&dates=9046FF)](https://github.com/ammansoomro)
+
+</div>
+
+### GitHub Activity Graph
+[![Amman Soomro's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ammansoomro&color=a855f7&line=9046FF&hide_title=true&hide_border=true&theme=github-compact&point=9046FF)](https://github.com/ammansoomro)
+
+<div align="center">
+
+![octocat](https://user-images.githubusercontent.com/10498744/210113490-e2fad07f-4488-4da8-a656-b9abbdd8cb26.gif)
+
+</div>
