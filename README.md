@@ -18,28 +18,31 @@ My methodical, accurate, and adaptable nature allows me to effectively navigate 
 # My Specs
 
 ```yaml
-apiVersion: v22
+apiVersion: v25
 kind: Human
 metadata:
   name: Muhammad Amman Soomro
 spec:
-  purpose: Implementing MERN Stack Sites and Providing Efficient Solution to the Problems
+  purpose: Building Scalable MERN Stack Applications & Enhancing User Experience through Frontend Development
   locations:
     - 
       type: Homepage
-      where: https://amman-portfolio.netlify.app/
+      where: https://ammansoomro.com/
     - 
       type: Discord 
       where: AmmanSoomro#3871
-    -
+    - 
       type: Twitter
       where: twitter.com/OtakuBakito
+    - 
+      type: LinkedIn
+      where: linkedin.com/in/ammansoomro
+  job:
+    current: Software Engineer
+    company: Techlogix
   favorites:
-    Anime 🇯🇵
+    Anime 
     Console-Games 🎮
-    Music 🎵 
-    Food 🍲 
-    Movies 🍿 
 ```
 
 # Connect With Me
@@ -76,7 +79,8 @@ spec:
 </div>
 
 ### GitHub Activity Graph
-[![Amman Soomro's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ammansoomro&color=a855f7&line=9046FF&hide_title=true&hide_border=true&theme=github-compact&point=9046FF)](https://github.com/ammansoomro)
+[![Amman Soomro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ammansoomro&color=a855f7&line=9046FF&hide_title=true&hide_border=true&theme=github-compact&point=9046FF)](https://github.com/ammansoomro)
+
 
 <div align="center">
 
