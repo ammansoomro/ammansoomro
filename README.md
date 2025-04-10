@@ -71,13 +71,6 @@ spec:
 
 # My GitHub Stats
 
-### GitHub Streak
-<div align="center">
-
-[![gitHub streak](https://github-readme-streak-stats.herokuapp.com?user=ammansoomro&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700&stroke=9046FF&ring=9046FF&fire=9046FF&currStreakNum=9046FF&sideNums=9046FF&currStreakLabel=9046FF&sideLabels=9046FF&dates=9046FF)](https://github.com/ammansoomro)
-
-</div>
-
 ### GitHub Activity Graph
 [![Amman Soomro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ammansoomro&color=a855f7&line=9046FF&hide_title=true&hide_border=true&theme=github-compact&point=9046FF)](https://github.com/ammansoomro)
 
